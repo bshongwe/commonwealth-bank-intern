@@ -2,5 +2,22 @@
  * Global CSS
  */
 
-/* Reset */
-*{}
+/** Reset
+ * Global font
+ */
+
+* {
+	font-family: Arial;
+}
+
+/* for h1 Elems */
+h1 {
+	color: Blue;
+	font-size: 36px;
+}
+
+/* for p Elems */
+p {
+	font-size: 18px;
+	color: Gray;
+}
