@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica;
+}
+  
+h1 {
+    color: rgb(13, 13, 65);
+    font-size: 24px;
+}
+  
+p {
+    font-size: 14px;
+    color: rgb(41, 40, 40);
+}
+
+body {
+    background-color: rgb(184, 245, 253);
+}
